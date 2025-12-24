@@ -87,8 +87,8 @@ Libraries used in this project:
 ---
 
 The team that developed this project:
-- Bâcă Ionut-Adelin (Group 132)
-- Popa Radu-Stefan (Group 132)
+- Bâcă Ionuț-Adelin (Group 132)
+- Popa Radu-Ștefan (Group 132)
 - Popescu Iulia-Maria (Group 131)
 
 ### Bibliography
